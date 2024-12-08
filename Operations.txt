@@ -1,0 +1,116 @@
+English:
+
+Before taking the airship:
+Click on "1": the character starts pointing and talking
+Click on "2": the character starts drinking a drink
+Click on "3": the character starts to cheer
+Click on "4": the character starts waving
+Click on "5": the character starts to jump up and down in celebration
+Click on "6": the character starts waving the flag
+Click on "Q": the character starts jumping up and down
+
+Click on "W": the character starts to walk inwards towards the screen
+Click on "S": the character starts walking off screen
+Tap "A": the character starts walking to the left
+Click on "D": the character starts walking to the right
+(The camera follows the character's movement)
+
+Click on "L": the character will start waving the flag and the rocket will start to lift off and recover several times 
+If "L" is not clicked, the rocket will start when another character gets to the console, with directional lights and a colour change in the indicator
+
+When the character approaches the light post between the rocket and the building and clicks "N", the background light will be switched on and off when "M" is clicked
+
+When the character approaches the ship and clicks on "E", the character will board the ship
+
+
+Once on board:
+Click on "W": the ship starts to move inwards towards the screen
+Click on "S": the ship starts to move off-screen
+Click on "A": the ship starts to move to the left
+Click on "D": the ship starts to move to the right
+(The camera follows the ship's movement)
+
+Click on "Q": the ship starts to move upwards
+Click "TAB": the ship starts to move downwards
+
+Click on "F": the character gets off the ship and goes straight to land
+
+When approaching the first building from left to right and clicking on "I", the character reaches the top of the building.
+The character can use any action normally
+
+When approaching the second building from left to right and clicking on "O", the character reaches the top of building 2.
+Click on "9" at this point and the character will start jumping and high-fiving with the people on the second building
+
+When we are near the third building from left to right and click on "P", the character reaches the top of building 3.
+Click on "0" at this point and the character will start jumping and high-fiving with the person on the third building
+
+
+Camera:
+Click on the arrow key "UP": the camera view moves inwards towards the screen
+Click on the arrow key "DOWN": the camera view moves out of the screen
+Arrow key "LEFT": Camera view moves to the left
+Click on the arrow key "RIGHT": the camera view moves to the right
+Click "V": camera view moves up
+Click on "C": camera view moves down
+(When not clicked, the camera follows the character/ship)
+
+
+
+Chinese：
+在乘坐飞船之前：
+
+点击“1”：人物开始指指点点地说话
+点击“2”：人物开始喝饮料
+点击“3”：人物开始欢呼
+点击“4”：人物开始挥手
+点击“5”：人物开始跳起来庆祝
+点击“6”：人物开始挥动旗子
+点击“Q”：人物开始上下跳跃
+
+点击“W”：人物开始向屏幕内走
+点击“S”：人物开始向屏幕外走
+点击“A”：人物开始向左走
+点击“D”：人物开始向右走
+（相机跟随人物移动）
+
+点击“L”：人物将开始挥动旗帜，火箭也将在短时间内开始多次升空并回收
+如果一直不点击“L”，火箭将在特定人物上到控制台后启动，并伴随方向光、指示灯变色等提示
+
+当人物靠近火箭和building之间的指示灯柱并点击“N”时，将会开启背景光，点击“M”后将关闭背景光
+
+当人物靠近飞船并点击“E”时，人物将坐上飞船
+
+
+上飞船之后：
+点击“W”：飞船开始向屏幕内移动
+点击“S”：飞船开始向屏幕外移动
+点击“A”：飞船开始向左移动
+点击“D”：飞船开始向右移动
+（相机跟随飞船移动）
+
+点击“Q”：飞船开始向上移动
+点击“TAB”：飞船开始向下移动
+
+点击“F”：人物下飞船并直接到达陆地
+
+靠近从左往右数第一个building时并点击“I”时，人物到达building的顶部：
+人物可以正常使用任何动作
+
+靠近从左往右数第二个building时并点击“O”时，人物到达building 2的顶部：
+在此时点击“9”，人物将与第二个building上的人开始跳跃击掌欢呼
+
+靠近从左往右数第三个building时并点击“P”时，人物到达building 3的顶部：
+在此时点击“0”，人物将与第三个building上的人开始跳跃击掌欢呼
+
+
+Camera：
+点击方向键“UP”：相机视角向屏幕内移动
+点击方向键“DOWN”：相机视角向屏幕外移动
+点击方向键“LEFT”：相机视角向左移动
+点击方向键“RIGHT”：相机视角向右移动
+点击“V”：相机视角向上移动
+点击“C”：相机视角向下移动
+（不点击时，相机跟随人物/飞船而移动）
+
+
+
